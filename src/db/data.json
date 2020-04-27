@@ -1,0 +1,85 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "name": "Arroz con Pollo",
+      "ingredients": [
+        {
+          "name": "Papa",
+          "unit": "Kg",
+          "amount": 0.5
+        },
+        {
+          "name": "Ajo",
+          "unit": "Kg",
+          "amount": 1
+        }
+      ],
+      "steps": [
+        "Picar cebolla",
+        "Cortar tomate"
+      ],
+      "reviews": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Milanesas con Pure",
+      "ingredients": [
+        {
+          "name": "Oregano",
+          "unit": "Kg",
+          "amount": 0.5
+        },
+        {
+          "name": "Lechuga",
+          "unit": "Kg",
+          "amount": 1
+        },
+        {
+          "name": "Tomate",
+          "unit": "Kg",
+          "amount": 1
+        }
+      ],
+      "steps": [
+        "Picar cebolla",
+        "Cortar tomate"
+      ],
+      "reviews": [
+        4,
+        5,
+        5,
+        5
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Tarta de Acelga",
+      "ingredients": [
+        {
+          "name": "Cebolla",
+          "unit": "Kg",
+          "amount": 0.5
+        },
+        {
+          "name": "Tomate",
+          "unit": "Kg",
+          "amount": 1
+        }
+      ],
+      "steps": [
+        "Picar cebolla",
+        "Cortar tomate"
+      ],
+      "reviews": [
+        3,
+        3,
+        3
+      ]
+    }
+  ]
+}
